@@ -4,6 +4,3 @@
     <img alt="codinggujarat's GitHub Profile README" src="https://raw.githubusercontent.com/codinggujarat/codinggujarat/main/light_mode.svg">
   </picture>
 </a>
-
-
-
