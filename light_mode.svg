@@ -17,6 +17,35 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="1100px" height="580px" fill="#ffffff" rx="15"/>
 
+<text x="30" y="50" fill="#C7CDD6" font-size="12px" letter-spacing="0px">
+<tspan x="30" y="50">╭──────────────────────────────────────────────╮</tspan>
+<tspan x="30" y="70">│ <tspan fill="#9CA3AF">~/workspace/aman-portfolio</tspan>                 * │</tspan>
+<tspan x="30" y="90">├──────────────────────────────────────────────┤</tspan>
+<tspan x="30" y="110">│                                              │</tspan>
+<tspan x="30" y="130">│ * <tspan fill="#9CA3AF">94a2b1c</tspan> (HEAD -&gt; main)                     │</tspan>
+<tspan x="30" y="150">│ │  <tspan fill="#E5E7EB">Deploy latest changes</tspan>                     │</tspan>
+<tspan x="30" y="170">│ * <tspan fill="#9CA3AF">7f8d9e2</tspan> (origin/ai-integration)            │</tspan>
+<tspan x="30" y="190">│ │\ <tspan fill="#E5E7EB">Merge neural network module</tspan>               │</tspan>
+<tspan x="30" y="210">│ │ * <tspan fill="#9CA3AF">1e2f3g4</tspan> <tspan fill="#E5E7EB">Feature: AI Agents</tspan>               │</tspan>
+<tspan x="30" y="230">│ │ * <tspan fill="#9CA3AF">8h9i0j1</tspan> <tspan fill="#E5E7EB">Feature: LLM Core</tspan>                │</tspan>
+<tspan x="30" y="250">│ * │ <tspan fill="#9CA3AF">3a4b5c6</tspan> <tspan fill="#E5E7EB">Update architecture</tspan>              │</tspan>
+<tspan x="30" y="270">│ │/                                           │</tspan>
+<tspan x="30" y="290">│ * <tspan fill="#9CA3AF">d7e8f9a</tspan> <tspan fill="#E5E7EB">Setup Full Stack environment</tspan>       │</tspan>
+<tspan x="30" y="310">│                                              │</tspan>
+<tspan x="30" y="330">├──────────────────────────────────────────────┤</tspan>
+<tspan x="30" y="350">│                                              │</tspan>
+<tspan x="30" y="370">│ <tspan fill="#9CA3AF">[ System Initialization... ]</tspan>                 │</tspan>
+<tspan x="30" y="390">│ <tspan fill="#9CA3AF">100%</tspan> ███████████████████████████████████████ │</tspan>
+<tspan x="30" y="410">│                                              │</tspan>
+<tspan x="30" y="430">│ &gt; Loading core modules...                    │</tspan>
+<tspan x="30" y="450">│ &gt; Neural Network Core <tspan fill="#9CA3AF">[OK]</tspan>                   │</tspan>
+<tspan x="30" y="470">│ &gt; Natural Language Processing <tspan fill="#9CA3AF">[OK]</tspan>           │</tspan>
+<tspan x="30" y="490">│ &gt; Data Pipelines &amp; Architecture <tspan fill="#9CA3AF">[OK]</tspan>         │</tspan>
+<tspan x="30" y="510">│                                              │</tspan>
+<tspan x="30" y="530">│ <tspan fill="#9CA3AF">sys.status: ALL_SYSTEMS_OPERATIONAL</tspan>          │</tspan>
+<tspan x="30" y="550">╰──────────────────────────────────────────────╯</tspan>
+</text>
+
 <text x="520" y="30" fill="#111111">
 <tspan x="520" y="30">aman@nayak</tspan> -————————————————————————————————————————————-—-
 <tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Title</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">AI Engineer</tspan>
