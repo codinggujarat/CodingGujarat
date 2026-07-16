@@ -23,13 +23,6 @@ text, tspan {white-space: pre;}
 <tspan x="30" y="90" fill="#9CA3AF" font-size="13px">From understanding data to building production AI.</tspan>
 <tspan x="30" y="115" fill="#9CA3AF" font-size="12px">─────────────────────────────────────────────────────────────────</tspan>
 
-<tspan x="30" y="150" fill="#B45309" font-size="14px">Journey</tspan>
-<tspan x="30" y="175" fill="#111111" font-size="12px">01. Data Foundation</tspan>
-<tspan x="30" y="195" fill="#4B5563" font-size="12px">Analytics &amp; ML fundamentals</tspan>
-<tspan x="30" y="225" fill="#111111" font-size="12px">02. Production Systems</tspan>
-<tspan x="30" y="245" fill="#4B5563" font-size="12px">Scalable APIs &amp; applications</tspan>
-<tspan x="30" y="275" fill="#111111" font-size="12px">03. AI Agents &amp; LLMs</tspan>
-<tspan x="30" y="295" fill="#4B5563" font-size="12px">Agentic workflows &amp; modern AI</tspan>
 
 <tspan x="30" y="340" fill="#B45309" font-size="14px">Highlights</tspan>
 <tspan x="30" y="365" fill="#111111" font-size="12px">• 6+ AI Projects</tspan>
@@ -60,7 +53,7 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="520" y="30" fill="#111111">
-<tspan x="520" y="30">aman@nayak</tspan> -————————————————————————————————————————————-—-
+<tspan x="520" y="30">@amannayak</tspan> -————————————————————————————————————————————-—-
 <tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Title</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">AI Engineer</tspan>
 <tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Platform</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Windows • Ubuntu</tspan>
 <tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
